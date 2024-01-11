@@ -1,0 +1,7 @@
+function elegir()
+{
+    alert("Prueba")
+}
+
+
+  
